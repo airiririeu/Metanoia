@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>TEAM METANOIA</title>
+		<style>
+			body {font-family: verdana}
+			h1 {
+				color: #a13443;
+			}
+		</style>
+	</head>
+	<body style="background-color: #ece2e3">
+		<center>
+		<img src="01.png">
+		<img src="02.png">
+		<h1><b>METANOIA</b></h1>
+		<p><b>Metanoia (Team Metanoia)</b> is a kpop dance cover group with 4 members, <b>Bianca, Leira,
+		Samantha, and Ariane</b>. Metanoia debuted on June 6, 2020 with MAMAMOO's HIP. </br>After a few months, they added new members <b>Jholan and Allyza</b>, continuing
+		the group with 6 members.</br>
+		bored lang kami kaya kami ganto xd anyways ang ganda ni sam, tsaka ni allyza, tsaka
+		ni ate bianca, tsaka ni mama lanju tsaka ni ate (slight lang xd) uwu.</p><hr>
+
+		<h2 style="color: #a56d5c"><i>Social Media</i></h2>
+		YouTube: <a href="https://www.youtube.com/channel/UCgolkZw3FMDW-ftDK_OGB6A" style="color: #693f3b">TEAM METANOIA</a></br>
+		Facebook: <a href="https://www.facebook.com/TEAMETANOIA/" style="color: #693f3b">Team Metanoia</a></br>
+		TikTok: <a href="https://www.tiktok.com/@teammetanoia?is_from_webapp=1&sender_device=pc" style="color: #693f3b">@teammetanoia</a></br>
+		Instagram: <a href="https://www.instagram.com/teametanoia/" style="color: #693f3b">@teametanoia</a></br>
+		<p> </p>
+		<hr>
+
+		<h2 style="color: #a56d5c"><i>MEMBERS</i></h2>
+		<h3 style="color: #686466">Bianca Louisse</h3>
+			<img src="bianca.png">
+			<p><mark>Name:</mark> Bianca Louisse Garados</br><mark>Position:</mark> Leader, Vocalist, Dancer</br>
+			<mark>Birthday:</mark> August 27,2002</br><mark>Age:</mark> 18 + 2</br>
+			<mark>Zodiac Sign:</mark> Virgo</br><mark>Height:</mark> 5'2</br>
+			<mark>MBTI type:</mark> INTJ</br><mark>Favorite Kpop Group:</mark> TWICE, STRAYKIDS, and GOT7</br>
+			<mark>Favorite Song:</mark> Avril Lavigne - Keep holding on</br></p>
+			Spotify: <a href="https://open.spotify.com/playlist/5Tjd1BQ8rTfooGMJTCyrH1?si=0652468d2e4549ac" style="color: #693f3b">kalista - dysphoria<a></br>
+			Instagram: <a href="https://www.instagram.com/louissee.y/" style="color: #693f3b">@louissee.y</a></br>
+			Facebook: <a href="https://www.facebook.com/louisxs.xoxo27" style="color: #693f3b">Bianca Louisse</a>
+
+		<h3 style="color: #686466">Leira</h3>
+			<img src="leira.png">
+			<p><mark>Name:</mark> Leira Angel Lecias</br><mark>Position:</mark> Main Vocalist, Dancer</br>
+			<mark>Birthday:</mark> January 26, 2003</br><mark>Age:</mark> 19</br>
+			<mark>Zodiac Sign:</mark> Aquarius</br><mark>Height:</mark> --</br>
+			<mark>MBTI type:</mark> INFJ</br><mark>Favorite Kpop Group:</mark> DAY6, TWICE, ITZY, (G)I-DLE, and STRAY KIDS</br>
+			<mark>Favorite Song:</mark> DAY6 - Above the Clouds</br></p>
+			Spotify: <a href="https://open.spotify.com/playlist/1U5eK7fjI0Ipd4UZvguDrv?si=ZTqOKUIASWeQAvvHW5idgw&utm_source=copy-link" style="color: #693f3b">ScarletRedSky - Song that was always on my mind (K-Ver)</a></br>
+			Instagram: <a href="https://www.instagram.com/leira._.lei/" style="color: #693f3b">@leira._.lei</a></br>
+			Facebook: <a href="https://www.facebook.com/Lei.cheonsa" style="color: #693f3b">Leira Lecias</a>
+
+		<h3 style="color: #686466">Jholan</h3>
+			<img src="jholan.png">
+			<p><mark>Name:</mark> Jholan Reign Ombao</br><mark>Position:</mark> Vocalist, Lead Dancer</br>
+			<mark>Birthday:</mark> July 5, 2004</br><mark>Age:</mark> 18</br>
+			<mark>Zodiac Sign:</mark> Cancer</br><mark>Height:</mark> 5'5</br>
+			<mark>MBTI type:</mark> ISFJ-A</br><mark>Favorite Kpop Group:</mark> EXO, TWICE, and ITZY</br>
+			<mark>Favorite Song:</mark> "idk, any slow song"</br></p>
+			Instagram: <a href="https://www.instagram.com/jholanrgn_/" style="color: #693f3b">@jholanrgn_</a></br>
+			Facebook: <a href="https://www.facebook.com/jhooooo.rgn" style="color: #693f3b">Jholan Ombao</a>
+
+		<h3 style="color: #686466">Samantha</h3>
+			<img src="samantha.png">
+			<p><mark>Name:</mark> Samantha Faye Garados</br><mark>Position:</mark> Lead Vocalist, Dancer</br>
+			<mark>Birthday:</mark> August 1, 2004</br><mark>Age:</mark> 18</br>
+			<mark>Zodiac Sign:</mark> Leo</br><mark>Height:</mark> --</br>
+			<mark>MBTI type:</mark> --</br><mark>Favorite Kpop Group:</mark> --</br>
+			<mark>Favorite Song:</mark> --</br></p>
+			Instagram: <a href="https://www.instagram.com/_fayeday/" style="color: #693f3b">@_fayeday</a></br>
+			Facebook: <a href="https://www.facebook.com/samdayyyyy" style="color: #693f3b">Samantha Faye Garados</a>
+
+		<h3 style="color: #686466">Allyza</h3>
+			<img src="allyza.png">
+			<p><mark>Name:</mark> Allyza Mauleon</br><mark>Position:</mark> Vocalist, Lead Dancer</br>
+			<mark>Birthday:</mark> April 10, 2005</br><mark>Age:</mark> 17</br>
+			<mark>Zodiac Sign:</mark> Aries</br><mark>Height:</mark> 4'10</br>
+			<mark>MBTI type:</mark> INTJ-A</br><mark>Favorite Kpop Group:</mark> DREAMCATCHER</br>
+			<mark>Favorite Song:</mark> Full Moon by Dreamcatcher</br></p>
+			Instagram: <a href="https://www.instagram.com/liza_paxley/" style="color: #693f3b">@liza_paxley</a></br>
+			Facebook: <a href="https://www.facebook.com/chingchongsheifuxiaoni" style="color: #693f3b">Allyza Mauleon</a>
+
+		<h3 style="color: #686466">Airi</h3>
+			<img src="ariane.png">
+			<p><mark>Name:</mark> Ariane Jasmin Lecias</br><mark>Position:</mark> Maknae, Vocalist, Main Dancer</br>
+			<mark>Birthday:</mark> March 22,2006</br><mark>Age:</mark> 16</br>
+			<mark>Zodiac Sign:</mark> Aries</br><mark>Height:</mark> 5'3</br>
+			<mark>MBTI type:</mark> INTJ</br><mark>Favorite Kpop Group:</mark> STRAY KIDS, TWICE, (G)I-DLE, DAY6, GOT7, and XDINARY HEREOS</br>
+			<mark>Favorite Song:</mark> BIBI - Animal Farm</br></p>
+			Spotify: <a href="https://open.spotify.com/playlist/0TvAC0qTozHhRxjCrPiotb?si=053d369c511e4bef&pt=53cbca919261c6b9e8082f707ff05fde" style="color:#693f3b">airi - serene</a></br>
+			Instagram: <a href="https://www.instagram.com/airi.hiraya/" style="color: #693f3b">@airi.hiraya</a></br>
+			Facebook: <a href="https://www.facebook.com/airi.hiraya/" style="color: #693f3b">Ariane Jasmin</a>
+		</center>
+	</body>
+</html>
